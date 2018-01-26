@@ -35,3 +35,6 @@ into a simpler structure using the Package Scrapy.
 ### Further Readings
 In this section you will find a list of helpful resources to write more sophisticated web crawler.
 - TBD
+
+**Contact**\
+In case you have an further topics to discus feel free to get in touch with me via [LinkedIn](https://www.linkedin.com/in/max-philipp-schrader/)
