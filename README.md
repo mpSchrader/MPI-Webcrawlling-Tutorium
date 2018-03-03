@@ -6,7 +6,7 @@ This Git repository contains all materials for the Webcrawling Tutorium held at 
 To be able to participate in the workshop please ensure your machine meets all prerequisites.
 
 - **Anaconda:** You should have Anaconda for Python 3.6 installed. \
-Installation Instructions: https://conda.io/docs/user-guide/install/windows.html\
+Installation Instructions: https://conda.io/docs/user-guide/install/windows.html \
 Download Page: https://www.anaconda.com/download/#windows
 - **PyCharm:** Install PyCharm Community Edition or as a PhD Student the Professional Edition, which get for free as a student.\
 PyCharm Download: https://www.jetbrains.com/pycharm/ \
