@@ -34,7 +34,11 @@ into a simpler structure using the Package Scrapy.
 
 ### Further Readings
 In this section you will find a list of helpful resources to write more sophisticated web crawler.
-- TBD
+- General Python Guide [Ref](http://docs.python-guide.org/en/latest/)
+- Web Crawling Best Practices [Ref1](https://www.promptcloud.com/blog/web-scraping-best-practices), [Ref2](http://www.botscraper.com/blog/Follow-these-best-practices-while-web-crawling-and-scraping)
+- Multithreading in Python [Ref](https://www.toptal.com/python/beginners-guide-to-concurrency-and-parallelism-in-python)
+- Natural Language Processing [Ref](http://www.nltk.org/book/ch01.html)
+- Python Data Science Handbook: Essential Tools for working with Data [Ref](https://smile.amazon.de/Python-Data-Science-Handbook-Essential/dp/1491912057/)
 
 **Contact**\
 In case you have an further topics to discus feel free to get in touch with me via [LinkedIn](https://www.linkedin.com/in/max-philipp-schrader/)
