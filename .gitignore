@@ -103,3 +103,4 @@ ENV/
 # Custom
 .idea/ 
 my_crawled_articles.csv
+*.json
